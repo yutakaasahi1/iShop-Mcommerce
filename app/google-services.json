@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601021067287",
+    "project_id": "my-ishop1",
+    "storage_bucket": "my-ishop1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601021067287:android:1b1614e831e077e3bfec52",
+        "android_client_info": {
+          "package_name": "com.example.ishop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWpS0ELnudbZRK4Ei-Y4GkESnIqw8bUBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
